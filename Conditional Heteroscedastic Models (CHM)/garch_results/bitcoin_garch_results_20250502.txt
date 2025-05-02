@@ -1,0 +1,40 @@
+GARCH(1,1) Analysis for Bitcoin - 2025-05-02
+==================================================
+
+Model Parameters:
+alpha0 = 0.000188
+alpha1 = 0.088063
+beta1 = 0.705699
+Equilibrium volatility = 0.030232
+
+Volatility Forecast (30 days):
+Day 1: 3.29%
+Day 2: 3.23%
+Day 3: 3.19%
+Day 4: 3.16%
+Day 5: 3.13%
+Day 6: 3.11%
+Day 7: 3.09%
+Day 8: 3.08%
+Day 9: 3.07%
+Day 10: 3.06%
+Day 11: 3.05%
+Day 12: 3.04%
+Day 13: 3.04%
+Day 14: 3.04%
+Day 15: 3.03%
+Day 16: 3.03%
+Day 17: 3.03%
+Day 18: 3.03%
+Day 19: 3.03%
+Day 20: 3.03%
+Day 21: 3.03%
+Day 22: 3.03%
+Day 23: 3.02%
+Day 24: 3.02%
+Day 25: 3.02%
+Day 26: 3.02%
+Day 27: 3.02%
+Day 28: 3.02%
+Day 29: 3.02%
+Day 30: 3.02%
