@@ -1,0 +1,18 @@
+EWMA and Mean-Reverting EWMA Model Parameters
+==============================================
+
+EWMA decay factor (K): 0.9400
+
+Mean-Reverting EWMA parameters:
+  - Mean reversion rate (lambda): 0.0500
+  - Long-run variance (mu): 0.001330
+  - Long-run volatility (sqrt(mu)): 0.0365
+  - Kalman gain (K): 0.3904
+
+Latest Volatility Estimates (as of 2025-04-24):
+  - EWMA: 0.0305
+  - Mean-Reverting EWMA: 0.0276
+
+30-day Volatility Forecast:
+  - EWMA: 0.0305 (constant)
+  - Mean-Reverting EWMA: 0.0348
